@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "d:/School/EECS 348/EECS-348-Lab-5",
-      "program": "d:/School/EECS 348/EECS-348-Lab-5/build/Debug/outDebug",
+      "program": "D:/School/EECS 348/EECS-348-Lab-5/problem1.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
