@@ -133,7 +133,7 @@ int main(){
         orderedMonths[i] = newI;
     }
     //Print out the results
-    printf("Sales Report (highest to lowest): \n\n");
+    printf("\nSales Report (highest to lowest): \n\n");
     printf("Month   Sales\n");
     for (int i = 0; i<12;i++){
         printf("%s   %f\n",getMonth(orderedMonths[i]),orderedValues[i]);
